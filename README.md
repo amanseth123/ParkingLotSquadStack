@@ -3,7 +3,7 @@ Parking Lot System
 Project Requirements: \
   Python 2.7+ (Windows/Mac/Linux)
 
-The project can be run in one of the following 2 Ways: \
+The project can be run in one of the following 2 Ways: 
   1. Through terminal\
      python parkingMain.py\
      After typing above command and hitting enter, the system will prompt to enter the text filename located in the same folder where the parkingMain.py is located\

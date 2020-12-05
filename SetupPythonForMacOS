@@ -1,0 +1,53 @@
+The below installation steps are taken from : https://www.javatpoint.com/how-to-install-python-on-mac
+
+PLEASE AVOID PLAGIARISM CASE HERE
+ 
+ 
+ Python 2.7 is installed by default on MacOS but we can install other versions like python 3.5 and 3.6. 
+ 
+ Checking python's version on the system
+
+We can check which version of the Python is currently installed on our system. Generally, Python 2.7 is installed by default.
+
+Let's see how can we do it.
+
+    $ python -version    
+
+Macos Python 1
+
+It shows Python 2.7.10 is installed on the computer which is quite often.
+
+2) Download Python 3.6.3
+
+In order to install Python 3.6.3, we must download the latest version from its official website https://www.python.org/downloads/ . The file is downloaded in .pkg format which can be directly installed by using Installer command.
+
+3) Install Python 3.6.3
+
+Since the downloaded file already is in .pkg format hence no mounting is required and We can use installer command to install Python 3.6.3.
+
+Let's see how can we do it.
+Macos Python 2
+
+Since The installer is used with super user permissions hence sudo forces terminal to prompt the user to fill the admin password. The process installs the Python 3.6.3 to the root directory which is mentioned with the target option.
+
+4) Verify Python3
+
+To check which Python version is installed on the machine, we can use python -version command. Since by default installed version is Python 2.7.10 hence it shows python 2.7.10. but it gives us flexibility to check the version of Python 3 on our computer.
+
+Let's see how can we use python 3 to check which version of python 3 is running.
+
+    $ python -version   
+
+5) Working on Python's script mode
+
+To work on Python command line, we simply type python3 on the terminal. Python shell open where we can run Python statements such as print statements as we did here.
+Macos Python 3
+
+To run a Python file (.py) on the terminal, we simply type the file name and the file will be interpreted.
+
+Well, we have installed Python3 on our MacOS. 
+ 
+ 
+ 
+ 
+ 

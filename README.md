@@ -1,7 +1,7 @@
 # ParkingLotSquadStack
 Parking Lot System 
 Project Requirements: \
-  Python 2.7+ (Windows/Mac/Linux)
+  Python 3.x (Windows/Mac/Linux)
 
 The project can be run in one of the following 2 Ways: 
   1. Through terminal\

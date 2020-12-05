@@ -1,0 +1,31 @@
+Follow this link to setup python on a windows machine : https://phoenixnap.com/kb/how-to-install-python-3-windows
+
+1.Open the web browser and go to the Downloads for Windows section of the official Python website.
+2.Search for the desired version of Python.
+3.Select a link to download either the Windows x86-64 executable installer or Windows x86 executable installer based on the OS. The download is approximately 25MB.
+
+Running the Execuatble Installer
+1. Run the Python Installer once downloaded by clicking on it.
+
+2. Make sure to select the Install launcher to all users and add the Python 3.7 to PATH checkboxes. The latter places the interpreter in the execution path. For older versions of Python that do not support the Add Python to Path checkbox, see Step 6.
+
+3. Select the Install Now – the recommended installation options.
+
+For all recent versions of Python, the recommended installation options include Pip and IDLE. Older versions might not include such additional features.
+
+4. The next dialog will prompt you to select whether to Disable path length limit. Choosing this option will allow Python to bypass the 260-character MAX_PATH limit. Effectively, it will enable Python to use long path names.
+
+The Disable path length limit option will not affect any other system settings. Turning it on will resolve potential name length issues that may arise with Python projects developed in Linux.
+
+Step 4: Verify Python Was Installed On Windows
+
+    Navigate to the directory in which Python was installed on the system. 
+    Double-click python.exe.
+    This will open a python shell .
+
+Note: You can also check whether the installation was successful by typing python –V in Command Prompt. The output should display your installed version of Python.
+
+
+
+
+
